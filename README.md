@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif)]()
+
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"  />
 
 
@@ -104,3 +104,5 @@
 </div>
 
 ###
+
+[![MasterHead](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif)]()
