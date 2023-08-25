@@ -1,6 +1,6 @@
 
-<a href="https://www.github.com/akhtarvahid">
-<img width="1263" alt="Screenshot 2023-08-20 at 5 40 45 PM" src="https://github.com/akhtarvahid/akhtarvahid/assets/16021125/fde1c11d-d089-4059-9e09-6060aebc5723">
+<a href="https://www.github.com/akhtarvahid" target='_self'>
+  <img width="1042" alt="Screenshot 2023-08-25 at 3 46 16 PM" src="https://github.com/akhtarvahid/akhtarvahid/assets/16021125/60da6be3-620c-4e30-84c5-ff1934dddf1d">
 </a>
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300" />
 
