@@ -6,25 +6,27 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/akhtarvahid" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="34" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/akhtarvahid" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="34" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitter.com/akhtarvahid" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="34" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Vahid Akhtar from Bengaluru, India.<br><br>- 🔭 I’m working as full Stack developer<br>- 📚 I'm currently learning backend development<br>- ⚡ In my free time I used to work on small projects. And currently working on ...<br>- 📝 I regularly write articles on https://akhtarvahid.hashnode.dev/<br>- 📩 How to reach me: vahidakhtar2@gmail.com</p>
+
+###
+
+###
+  <h3 align="left">Connect with me:</h3>
+  <div align="left">
+   <a href="https://www.linkedin.com/akhtarvahid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="34" alt="linkedin logo"  />
+  </a>
+   <a href="https://www.linkedin.com/akhtarvahid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="34" alt="youtube logo"  />
+   </a>
+   <a href="https://twitter.com/akhtrvahid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="34" alt="twitter logo"  />
+   </a>
+</div>
 
 ###
 
@@ -64,15 +66,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats :</h3>
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=akhtarvahid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhtarvahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhtarvahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
 
 ###
 
