@@ -106,5 +106,8 @@
 
 ###
 
- <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="180" height="40" alt="devto logo" />
+ <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="180" height="45" alt="devto logo"
+/>
+
+
 
