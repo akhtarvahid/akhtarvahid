@@ -1,8 +1,8 @@
 
 <a href="https://www.github.com/akhtarvahid" target='_self'>
-  <img width="1186" alt="Screenshot 2023-08-25 at 9 06 51 PM" src="https://github.com/akhtarvahid/akhtarvahid/assets/16021125/5d53ce68-229e-4cc0-92ff-f4ba1ae0b62c">
+  <img height="200" width="1080" alt="Screenshot 2023-08-25 at 9 06 51 PM" src="https://github.com/akhtarvahid/akhtarvahid/assets/16021125/5d53ce68-229e-4cc0-92ff-f4ba1ae0b62c">
 </a>
-<img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300" width="320" />
+<img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="180" width="200" />
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Vahid Akhtar from Bengaluru, India.<br><br>- 🔭 I’m working as full Stack developer<br>- 📚 I'm currently learning backend development<br>- ⚡ In my free time I used to work on small projects. And currently working on ...<br>- 📝 I regularly write articles on https://akhtarvahid.hashnode.dev/<br>- 📩 How to reach me: vahidakhtar2@gmail.com</p>
+<p align="left">I'm Vahid Akhtar from Bengaluru, India.<br><br>- 🔭 I’m working as full Stack developer<br>- 📚 I'm currently learning backend development<br>- ⚡ In my free time, I used to work on small projects. And currently working on ...<br>- 📝 I regularly write articles on https://akhtarvahid.hashnode.dev/<br>- 📩 How to reach me: vahidakhtar2@gmail.com</p>
 
 ###
 
