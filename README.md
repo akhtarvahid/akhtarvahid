@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
